@@ -1,4 +1,5 @@
 """
+test git pull
 test git pull --rebase origin master
 Django settings for github project.
 
